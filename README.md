@@ -3,7 +3,7 @@ https://connectedoffice-devicemanagement.azurewebsites.net is used in a Chrome b
 
 -note: Create and Read tests are both conducted in the Read-sequence, since if a record can be read it has to have been created.
 
-#Instructions
+# Instructions
 -Ensure the Excel-file has all test results set to "FALSE"
 -Open the project in UiPath Studio
 -Run the Main.xaml process
